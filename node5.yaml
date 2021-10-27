@@ -1,0 +1,10 @@
+- id: 5
+  address: "8085"
+  neighbours: 
+    - id: 4
+      address: "8084"
+      edge_weight: 1
+
+    - id: 2
+      address: "8082"
+      edge_weight: 1 
